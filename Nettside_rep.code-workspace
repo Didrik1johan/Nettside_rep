@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Nettside_rep",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Nettside_rep"
+	}
+}
